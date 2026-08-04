@@ -18,11 +18,13 @@
 
 ###
 
-<h3 align="center">Software Engineer | .Net | MERN | React Native | Machine Learning | Deep Learning | Computer Vision</h3>
+<h3 align="center">Full Stack AI Engineer | MERN | React Native | Gen AI | Machine Learning | Deep Learning | Computer Vision</h3>
 
 ###
 
-<p align="left">I'm a Computer Science graduate and a passionate Full-Stack Software Developer with over 1+ year of experience building and deploying scalable, real-world web and mobile applications. I specialize in the MERN stack, React Native, TypeScript, and .NET technologies, with hands-on experience in Machine Learning and Computer Vision through both academic and project-based work.<br><br>Currently, I’m expanding my expertise by working on AI-powered applications and actively seeking opportunities in the field of artificial intelligence, where I can contribute to real-world problem-solving through innovative tech solutions.</p>
+<p align="left">
+I'm a <strong>Full Stack AI Engineer</strong> with 2+ years of experience building scalable AI applications. I specialize in <strong>MERN, React Native, Python, FastAPI, LangChain, and LangGraph</strong>, with hands-on experience in <strong>LLMs, AI Agents, Guardrails, AI Security, LLMOps, Machine Learning, and Computer Vision</strong>. Passionate about building secure, production-ready AI systems that solve real-world problems.
+</p>
 
 ###
 
